@@ -1,0 +1,4 @@
+# Local staging for GitHub Release assets.
+# Large binaries (e.g. the global MMDB) are uploaded to GitHub Releases,
+# not committed to the repository tree.
+_release-uploads/
